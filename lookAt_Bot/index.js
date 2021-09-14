@@ -1,9 +1,9 @@
 const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
-  host: 'localhost',
-  port: 37269,
-  username: 'lookAt_Bot'
+  host: '217.144.54.228',
+  port: 8391,
+  username: 'XxceceHUN'
 })
 
 function lookAtNearestPlayer () {
